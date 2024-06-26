@@ -1,2 +1,53 @@
 # life 
 DOMAIN-SUFFIX,google.com
+DOMAIN,deftpdf.com
+DOMAIN-KEYWORD,icloud
+DOMAIN-SUFFIX,momot.rs
+DOMAIN-SUFFIX,singlelogin.me
+DOMAIN-SUFFIX,search.yibook.org
+DOMAIN-SUFFIX,zh.annas-archive.org
+DOMAIN-SUFFIX,zlibrary-china.se
+DOMAIN-SUFFIX,cn1lib.is
+DOMAIN-SUFFIX,z-lib.id
+DOMAIN-SUFFIX,mangapanda.com
+DOMAIN,www.mangapanda.com
+DOMAIN-KEYWORD,lazada,DIRECT
+# DOMAIN,www.cambly.com
+DOMAIN,zh.xhaccess.com
+# DOMAIN-SUFFIX,cdn.aqdstatic.com
+# DOMAIN-SUFFIX,cambly.com
+DOMAIN-SUFFIX,flyscoot.com
+# DOMAIN,pre-privacy.lazada.sg,DIRECT
+DOMAIN,www.mac-downloader.com
+DOMAIN,www.baliasli.com.au
+DOMAIN-SUFFIX,peramatour.com
+DOMAIN-SUFFIX,chatdoc.com
+DOMAIN-KEYWORD,cohere
+# DOMAIN-SUFFIX,tripadvisor.com
+DOMAIN-SUFFIX,cursor.so
+DOMAIN-SUFFIX,dify.ai
+PROCESS-NAME,/Users/shuai/Library/Application Support/JetBrains/IntelliJIdea2023.3/plugins/github-copilot-intellij/copilot-agent/bin/copilot-agent-macos-arm64,DIRECT
+DOMAIN-KEYWORD,penidaislandtours
+DOMAIN-KEYWORD,duolingo
+DOMAIN-SUFFIX,cebupacificair.com
+DOMAIN-SUFFIX,booking.com
+DOMAIN,v2.fastlink-aff02.com
+DOMAIN,powerhouse.go2cloud.org
+DOMAIN-SUFFIX,nordvpn.com
+DOMAIN-SUFFIX,nordvpn.net
+DOMAIN-SUFFIX,expressvpn.com
+DOMAIN-SUFFIX,qiangwaikan.com
+DOMAIN-SUFFIX,share.america.gov
+DOMAIN,cheaptravel-coron.weebly.com
+DOMAIN-SUFFIX,clientstream.launchdarkly.com
+DOMAIN,pan.baidu.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,subconverter.org
+DOMAIN,justmysocks3.net
+DOMAIN,suburl.v1.mk
+DOMAIN-SUFFIX,m.iyf.tv
+DOMAIN-SUFFIX,cnys1.tv
+DOMAIN,ds1.agrosino.net
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,baeldung.com
+DOMAIN-SUFFIX,cathaypacific.com
