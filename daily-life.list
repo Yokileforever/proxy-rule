@@ -11,13 +11,11 @@ DOMAIN-SUFFIX,cn1lib.is
 DOMAIN-SUFFIX,z-lib.id
 DOMAIN-SUFFIX,mangapanda.com
 DOMAIN,www.mangapanda.com
-DOMAIN-KEYWORD,lazada,DIRECT
 # DOMAIN,www.cambly.com
 DOMAIN,zh.xhaccess.com
 # DOMAIN-SUFFIX,cdn.aqdstatic.com
 # DOMAIN-SUFFIX,cambly.com
-DOMAIN-SUFFIX,flyscoot.com
-# DOMAIN,pre-privacy.lazada.sg,DIRECT
+DOMAIN-SUFFIX,flyscoot.comc
 DOMAIN,www.mac-downloader.com
 DOMAIN,www.baliasli.com.au
 DOMAIN-SUFFIX,peramatour.com
