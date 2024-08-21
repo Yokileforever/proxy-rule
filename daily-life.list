@@ -1,4 +1,19 @@
-# life 
+# life
+DOMAIN-KEYWORD,dianjiwenku,🚀 节点选择
+DOMAIN-SUFFIX,126.com,🚀 节点选择
+DOMAIN-KEYWORD,yhdm,🚀 节点选择
+DOMAIN-SUFFIX,agedm.org,🚀 节点选择
+DOMAIN,evis.imigrasi.go.id,🚀 节点选择
+DOMAIN,live.finpay.id,🚀 节点选择
+DOMAIN,komodoislandtour,🚀 节点选择
+DOMAIN,www.oxfordlearnersbookshelf.com,🚀 节点选择
+DOMAIN,abm.alibaba-inc.com,DIRECT
+DOMAIN,dt-all.ali-sg-lazada.odps.aliyun-inc.com,DIRECT
+DOMAIN,hwmimg.127.net,🚀 节点选择
+DOMAIN,service-all.ali-sg-lazada.odps.aliyun-inc.com,DIRECT
+PROCESS-NAME,/System/Volumes/Preboot/Cryptexes/OS/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking,🚀 节点选择
+DOMAIN-SUFFIX,163.com,🚀 节点选择
+DOMAIN-SUFFIX,dmla6.com,🚀 节点选择
 DOMAIN-SUFFIX,google.com
 DOMAIN,deftpdf.com
 DOMAIN-KEYWORD,icloud
@@ -11,19 +26,13 @@ DOMAIN-SUFFIX,cn1lib.is
 DOMAIN-SUFFIX,z-lib.id
 DOMAIN-SUFFIX,mangapanda.com
 DOMAIN,www.mangapanda.com
-DOMAIN-KEYWORD,lazada,DIRECT
-# DOMAIN,www.cambly.com
 DOMAIN,zh.xhaccess.com
-# DOMAIN-SUFFIX,cdn.aqdstatic.com
-# DOMAIN-SUFFIX,cambly.com
 DOMAIN-SUFFIX,flyscoot.com
-# DOMAIN,pre-privacy.lazada.sg,DIRECT
 DOMAIN,www.mac-downloader.com
 DOMAIN,www.baliasli.com.au
 DOMAIN-SUFFIX,peramatour.com
 DOMAIN-SUFFIX,chatdoc.com
 DOMAIN-KEYWORD,cohere
-# DOMAIN-SUFFIX,tripadvisor.com
 DOMAIN-SUFFIX,cursor.so
 DOMAIN-SUFFIX,dify.ai
 PROCESS-NAME,/Users/shuai/Library/Application Support/JetBrains/IntelliJIdea2023.3/plugins/github-copilot-intellij/copilot-agent/bin/copilot-agent-macos-arm64,DIRECT
