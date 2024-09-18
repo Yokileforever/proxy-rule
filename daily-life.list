@@ -1,23 +1,19 @@
 # life
-DOMAIN,assets.leetcode.com,🚀 节点选择
-DOMAIN,hezhiqiang8909.gitbook.io,🚀 节点选择
-DOMAIN,leetcode.com,🚀 节点选择
-DOMAIN-SUFFIX,alibaba-inc.com,DIRECT
-DOMAIN-SUFFIX,qq.com,DIRECT
-DOMAIN-KEYWORD,lazada,DIRECT
-DOMAIN-KEYWORD,dianjiwenku,🚀 节点选择
-DOMAIN-SUFFIX,126.com,🚀 节点选择
-DOMAIN-KEYWORD,yhdm,🚀 节点选择
-DOMAIN-SUFFIX,agedm.org,🚀 节点选择
-DOMAIN,evis.imigrasi.go.id,🚀 节点选择
-DOMAIN,live.finpay.id,🚀 节点选择
-DOMAIN,komodoislandtour,🚀 节点选择
-DOMAIN,www.oxfordlearnersbookshelf.com,🚀 节点选择
-DOMAIN,abm.alibaba-inc.com,DIRECT
-DOMAIN,hwmimg.127.net,🚀 节点选择
-PROCESS-NAME,/System/Volumes/Preboot/Cryptexes/OS/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking,🚀 节点选择
-DOMAIN-SUFFIX,163.com,🚀 节点选择
-DOMAIN-SUFFIX,dmla6.com,🚀 节点选择
+DOMAIN,assets.leetcode.com
+DOMAIN,hezhiqiang8909.gitbook.io
+DOMAIN,leetcode.com
+DOMAIN-KEYWORD,dianjiwenku
+DOMAIN-SUFFIX,126.com
+DOMAIN-KEYWORD,yhdm
+DOMAIN-SUFFIX,agedm.org
+DOMAIN,evis.imigrasi.go.id
+DOMAIN,live.finpay.id
+DOMAIN,komodoislandtour
+DOMAIN,www.oxfordlearnersbookshelf.com
+DOMAIN,hwmimg.127.net
+PROCESS-NAME,/System/Volumes/Preboot/Cryptexes/OS/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
+DOMAIN-SUFFIX,163.com
+DOMAIN-SUFFIX,dmla6.com
 DOMAIN-SUFFIX,google.com
 DOMAIN,deftpdf.com
 DOMAIN-KEYWORD,icloud
@@ -39,7 +35,6 @@ DOMAIN-SUFFIX,chatdoc.com
 DOMAIN-KEYWORD,cohere
 DOMAIN-SUFFIX,cursor.so
 DOMAIN-SUFFIX,dify.ai
-PROCESS-NAME,/Users/shuai/Library/Application Support/JetBrains/IntelliJIdea2023.3/plugins/github-copilot-intellij/copilot-agent/bin/copilot-agent-macos-arm64,DIRECT
 DOMAIN-KEYWORD,penidaislandtours
 DOMAIN-KEYWORD,duolingo
 DOMAIN-SUFFIX,cebupacificair.com
