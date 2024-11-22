@@ -42,7 +42,6 @@ DOMAIN-KEYWORD,cohere
 # DOMAIN-SUFFIX,tripadvisor.com
 DOMAIN-SUFFIX,cursor.so
 DOMAIN-SUFFIX,dify.ai
-PROCESS-NAME,/Users/shuai/Library/Application Support/JetBrains/IntelliJIdea2023.3/plugins/github-copilot-intellij/copilot-agent/bin/copilot-agent-macos-arm64,DIRECT
 DOMAIN-KEYWORD,penidaislandtours
 DOMAIN-KEYWORD,duolingo
 DOMAIN-SUFFIX,cebupacificair.com
