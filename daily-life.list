@@ -1,4 +1,31 @@
 # life 
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,feishu.cn
+DOMAIN-SUFFIX,gptstore.ai
+DOMAIN-SUFFIX,coinlocker.click
+DOMAIN-SUFFIX,navitime.com
+DOMAIN-SUFFIX,monica.im
+DOMAIN-SUFFIX,0xo.net
+DOMAIN-SUFFIX,xunniufile.com
+DOMAIN-SUFFIX,yorkbbs.ca
+DOMAIN-SUFFIX,1lou.me
+DOMAIN-SUFFIX,playstation.com
+PROCESS-NAME,/Applications/Cursor.app/Contents/Frameworks/Cursor Helper (Plugin).app/Contents/MacOS/Cursor Helper (Plugin)
+DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN,www.xiaohongshu.com
+DOMAIN-SUFFIX,kuaikanmanhua.com
+DOMAIN,chinapress.com.my
+DOMAIN-KEYWORD,dmla
+DOMAIN-SUFFIX,agedm.org
+DOMAIN-SUFFIX,eng.rzd.ru
+DOMAIN-SUFFIX,yule.com.cn
+DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,myqcloud.com
+PROCESS-NAME,/Applications/Windsurf.app/Contents/Frameworks/Windsurf Helper (Plugin).app/Contents/MacOS/Windsurf Helper (Plugin)
+DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,molina.imigrasi.go.id
 DOMAIN-SUFFIX,boatcharterkomodo
