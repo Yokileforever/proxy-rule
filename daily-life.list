@@ -13,7 +13,6 @@ DOMAIN-SUFFIX,xunniufile.com
 DOMAIN-SUFFIX,yorkbbs.ca
 DOMAIN-SUFFIX,1lou.me
 DOMAIN-SUFFIX,playstation.com
-PROCESS-NAME,/Applications/Cursor.app/Contents/Frameworks/Cursor Helper (Plugin).app/Contents/MacOS/Cursor Helper (Plugin)
 DOMAIN-SUFFIX,xiaohongshu.com
 DOMAIN,www.xiaohongshu.com
 DOMAIN-SUFFIX,kuaikanmanhua.com
@@ -67,7 +66,6 @@ DOMAIN-SUFFIX,peramatour.com
 DOMAIN-SUFFIX,chatdoc.com
 DOMAIN-KEYWORD,cohere
 # DOMAIN-SUFFIX,tripadvisor.com
-DOMAIN-SUFFIX,cursor.so
 DOMAIN-SUFFIX,dify.ai
 DOMAIN-KEYWORD,penidaislandtours
 DOMAIN-KEYWORD,duolingo
